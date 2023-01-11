@@ -4,5 +4,4 @@ import 'migration_service.dart';
 
 void main() {
   runApp(const App());
-  //
 }
